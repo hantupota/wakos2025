@@ -1,16 +1,6 @@
 {
   "menu": [
     {
-      "nama": "Signature Chocolate",
-      "harga": 0,
-      "kategori": "Minuman Spesial"
-    },
-    {
-      "nama": "Pandan Milk",
-      "harga": 0,
-      "kategori": "Minuman Spesial"
-    },
-    {
       "nama": "Espresso",
       "harga": 5000,
       "kategori": "Kopi"
@@ -60,25 +50,130 @@
       "harga": 12000,
       "kategori": "Kopi"
     },
-    // ... dan seterusnya untuk semua item menu
+    {
+      "nama": "Vanilla Chip Cream",
+      "harga": 12000,
+      "kategori": "Chip Cream"
+    },
+    {
+      "nama": "Java Chip Cream",
+      "harga": 12000,
+      "kategori": "Chip Cream"
+    },
+    {
+      "nama": "Choco Chip Cream",
+      "harga": 12000,
+      "kategori": "Chip Cream"
+    },
+    {
+      "nama": "Caramel Chip Cream",
+      "harga": 12000,
+      "kategori": "Chip Cream"
+    },
+    {
+      "nama": "Greentea Chip Cream",
+      "harga": 12000,
+      "kategori": "Chip Cream"
+    },
+    {
+      "nama": "Hazelnut Chip Cream",
+      "harga": 12000,
+      "kategori": "Chip Cream"
+    },
+    {
+      "nama": "Salted Caramel Cream",
+      "harga": 12000,
+      "kategori": "Chip Cream"
+    },
+    {
+      "nama": "Signature Tea",
+      "harga": 4000,
+      "kategori": "Tea"
+    },
+    {
+      "nama": "Black Tea",
+      "harga": 5000,
+      "kategori": "Tea"
+    },
+    {
+      "nama": "Yuzu Tea",
+      "harga": 5000,
+      "kategori": "Tea"
+    },
+    {
+      "nama": "Lychee Tea",
+      "harga": 12000,
+      "kategori": "Tea"
+    },
+    {
+      "nama": "Soda Gembira",
+      "harga": 8000,
+      "kategori": "Indopride Drink"
+    },
+    {
+      "nama": "Fanta Susu",
+      "harga": 8000,
+      "kategori": "Indopride Drink"
+    },
+    {
+      "nama": "Extrajoss Susu",
+      "harga": 8000,
+      "kategori": "Indopride Drink"
+    },
+    {
+      "nama": "Kukubima Susu",
+      "harga": 8000,
+      "kategori": "Indopride Drink"
+    },
     {
       "nama": "Ropang Mentega Gula",
       "harga": 5000,
-      "kategori": "Makanan Ringan"
+      "kategori": "Fastfood & Chill"
     },
     {
       "nama": "Ropang Keju",
       "harga": 5000,
-      "kategori": "Makanan Ringan"
+      "kategori": "Fastfood & Chill"
     },
-    // ... dan seterusnya untuk semua item menu
-  ],
-  "promo": [
     {
-      "nama": "Buy 2 Latte Get 1 Sig Tea",
-      "detail": "Beli 2 Latte gratis 1 Sig Tea",
-      "produk": ["Coffee Latte", "Sig Tea"]
+      "nama": "Ropang Cokelat",
+      "harga": 5000,
+      "kategori": "Fastfood & Chill"
     },
-    // ... dan seterusnya untuk semua promo
+    {
+      "nama": "Ropang Kacang Susu",
+      "harga": 5000,
+      "kategori": "Fastfood & Chill"
+    },
+    {
+      "nama": "Ropang Strawberry",
+      "harga": 5000,
+      "kategori": "Fastfood & Chill"
+    },
+    {
+      "nama": "Ropang Cokelat Keju",
+      "harga": 8000,
+      "kategori": "Fastfood & Chill"
+    },
+    {
+      "nama": "Ropang Cokelat Kacang",
+      "harga": 8000,
+      "kategori": "Fastfood & Chill"
+    },
+    {
+      "nama": "Ropang Keju Panjang",
+      "harga": 8000,
+      "kategori": "Fastfood & Chill"
+    },
+    {
+      "nama": "Ropang Kacang Strawberry",
+      "harga": 8000,
+      "kategori": "Fastfood & Chill"
+    },
+    {
+      "nama": "Ropang Cokelat Strawberry",
+      "harga": 8000,
+      "kategori": "Fastfood & Chill"
+    }
   ]
 }
