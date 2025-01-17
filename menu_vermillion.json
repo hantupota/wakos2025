@@ -1,0 +1,84 @@
+{
+  "menu": [
+    {
+      "nama": "Signature Chocolate",
+      "harga": 0,
+      "kategori": "Minuman Spesial"
+    },
+    {
+      "nama": "Pandan Milk",
+      "harga": 0,
+      "kategori": "Minuman Spesial"
+    },
+    {
+      "nama": "Espresso",
+      "harga": 5000,
+      "kategori": "Kopi"
+    },
+    {
+      "nama": "Americano",
+      "harga": 6000,
+      "kategori": "Kopi"
+    },
+    {
+      "nama": "Coffee Latte",
+      "harga": 8000,
+      "kategori": "Kopi"
+    },
+    {
+      "nama": "Dolce Latte",
+      "harga": 10000,
+      "kategori": "Kopi"
+    },
+    {
+      "nama": "Mocha Latte",
+      "harga": 10000,
+      "kategori": "Kopi"
+    },
+    {
+      "nama": "Pandan Latte",
+      "harga": 10000,
+      "kategori": "Kopi"
+    },
+    {
+      "nama": "Vanilla Latte",
+      "harga": 10000,
+      "kategori": "Kopi"
+    },
+    {
+      "nama": "Coconut Latte",
+      "harga": 10000,
+      "kategori": "Kopi"
+    },
+    {
+      "nama": "Hazelnut Latte",
+      "harga": 10000,
+      "kategori": "Kopi"
+    },
+    {
+      "nama": "Caramel Macchiato",
+      "harga": 12000,
+      "kategori": "Kopi"
+    },
+    // ... dan seterusnya untuk semua item menu
+    {
+      "nama": "Ropang Mentega Gula",
+      "harga": 5000,
+      "kategori": "Makanan Ringan"
+    },
+    {
+      "nama": "Ropang Keju",
+      "harga": 5000,
+      "kategori": "Makanan Ringan"
+    },
+    // ... dan seterusnya untuk semua item menu
+  ],
+  "promo": [
+    {
+      "nama": "Buy 2 Latte Get 1 Sig Tea",
+      "detail": "Beli 2 Latte gratis 1 Sig Tea",
+      "produk": ["Coffee Latte", "Sig Tea"]
+    },
+    // ... dan seterusnya untuk semua promo
+  ]
+}
